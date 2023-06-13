@@ -3,7 +3,7 @@
     <div class="container">
       <div class="align-items-center mb-3 row">
         <div class="col-lg-9 ms-auto me-auto">
-          <h1 class="h1 mb-1 text-dark">Daftar Produk</h1>
+          <h1 class="h1 mb-1 text-dark">Cervice I Offer</h1>
           <p>
             Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s
           </p>
@@ -28,7 +28,7 @@
               />
               <polygon points="12 15 17 21 7 21 12 15" />
             </svg>
-            <h3 class="text-dark fw-normal pt-3">Produk 1</h3>
+            <h3 class="text-dark fw-normal pt-3">Web UI UX Design</h3>
             <p>
               Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s
               most popular front-end open source toolkit, featuring Sass variables and mixins,
@@ -54,7 +54,7 @@
               />
               <polygon points="12 15 17 21 7 21 12 15" />
             </svg>
-            <h3 class="text-dark fw-normal pt-3">Produk 1</h3>
+            <h3 class="text-dark fw-normal pt-3">Mobile APP UI/UX Design</h3>
             <p>
               Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s
               most popular front-end open source toolkit, featuring Sass variables and mixins,
@@ -80,7 +80,7 @@
               />
               <polygon points="12 15 17 21 7 21 12 15" />
             </svg>
-            <h3 class="text-dark fw-normal pt-3">Produk 1</h3>
+            <h3 class="text-dark fw-normal pt-3">front-end Developer</h3>
             <p>
               Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s
               most popular front-end open source toolkit, featuring Sass variables and mixins,

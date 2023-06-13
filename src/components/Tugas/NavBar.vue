@@ -33,11 +33,14 @@
             <a class="nav-link" href="#">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Portofolio</a>
+            <a class="nav-link" href="#">Service</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link" href="#">Portofolio</a>
           </li>      
+          <li class="nav-item">
+            <a class="nav-link" href="#">Testimonial</a>
+          </li> 
         </ul>
       </div>
     </div>
